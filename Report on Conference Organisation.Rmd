@@ -1,0 +1,253 @@
+---
+title: "Report on Insight Student Conference 2016
+        GS5103:Conference Organisation"
+author: "Md. Rezaul Karim(PhD student, ID#14239077), National University of Ireland, Galway"
+date: "Wednesday, 17th February, 2016"
+output: pdf_document
+---
+
+## Objective
+
+The objectives of the conference organisation are: to learn the conference theme, to describe the entire process of conference organisation, to learn how to manage a conference and to learn how to make effective communication with the conference speakers, chairs, attendees and other conference organisers.In a nuttshell, to keep the alignment of the objective of this graduate course, the aims of the conference was to give students like me, the opportunity to learn how to organise a conference and practical experience of so doing.
+
+However, these objectives could be fulfill if students get an opportunity to work as conference organisers. Moreover, if the students get an opportunity during their research programme to organise a conference, as an individual or as part of an organising committee that is a great way to learn. The reasons are obvious, since, the conference may address a general or specific theme and may attract participants from local institute or even can get international exposure.
+
+I got involved with the conference as an organizer as well as an author so that as a student I can be centrally involved in organising the conference along with my academic unit.
+
+
+## Conference theme and motivations
+The second Insight Student Conference 2015, which was a great opportunity to share research works with other students across the Insight sites and with other researchers overall took place at the Bailey Allen Hall, National University of Ireland, Galway on Friday 30 October, 2015 and was open to all students from the Insight centeres in Ireland. 
+
+The ultimate target was to make the use of it to get feedback on student's research work and ambitions and make this event a success by contributing our research works to find collaborators and to socialize across the Insight sites and the Irish academic sites overall. The motivation of organising this conference was listed below: 
+
+- To discuss our research work with our colleagues,
+
+- To train our presentation skills and our poster preparation skills, 
+
+- To test our latest ideas against fellow researchers and let these ideas to take into a mature submission state, which might involve conference or workshop or even journal submissions,
+
+- To learn about the ongoing research work at the other Insight sites across the Ireland,
+
+- To help the students of early stage in presenting their research interests and potential early hypotheses,
+
+- To validating and testifying ones results of mature stage to let others provide feedback and challenge someone's results.
+
+## Participants
+About 160 Insight members (including CEO, Directors, Unit Leaders, Postdoctoral researcher, PhD Students, MS Students, Intern, Collaborators and stuffs) came from the different Insight centres across the Ireland to connect with other researchers and learn about the interesting and varied work going on across the organisation from:
+
+- Insight Centre for Data Analytics, National University of Ireland, Galway(NUIG),
+
+- Insight Centre for Data Analytics, Dublin City University(DCU),
+
+- Insight Centre for Data Analytics, University College Dublin(UCD),
+
+- Insight Centre for Data Analytics, University College Cork(UCC).
+
+
+## Organizing committee and responsibility
+
+An excellent event was organized by Thu-Le Pham, Narumol Prangnawarat, Alokkumar Jha, Md. Rezaul Karim, Jaynal Abedin, Siamak Barzegar, Zia Ush Shamszaman and Erik Aumayr. Below we outline the responsibilities:
+
+- Narumol Prangnawarat and Erik Aumayr: They contacted and coordinated with other Insights centres across Ireland, co-ordinated with other volunteers for posters, transportation, sending email notifications, tweets. Calls for submission, conference papers review results publishing and other important announcements, Contacting and finding and coordinating with the keynote speakers at the conference date.
+
+- Zia Ush Shamszaman and Siamak Barzegar: They worked through conference date and program scheduling, social Activities and tweeting using hashtag: #insightsc2015. Provided the invitation to the event and providing registration facilities via Eventbrite. In addition, they also managed the budget, estimate for printing, food and transportations. They also did the count of number of attendees.  
+
+- Md. Rezaul Karim: Provided technical help with creating and maintaining conference website to the https://www.insight-centre.org/content/insight-student-conference-2015 and EasyChair setup for managing submissions and reviewing process on https://easychair.org/conferences/?conf=insightsc2015. Prepared the book of abstract and uploading the best paper and posters to the conference websites. 
+
+- Alokkumar Jha: He worked in the review process by contacting the reviewers across the insight centeres. Sending invitation to the reviewers to the review process through Easychair, distribute and collect the review of the abstracts. He also worked through choosing the best abstracts (for short presentations at the conference).
+
+- Thu-Le Pham: She worked for the catering and find the catering services for approximately 150 peoples(attendees = 150, approximate budget for 150 people), coordinating with the catering service on the conference date.Managing the logistics things so that the catering service providers could provide their service in the NUI Galway campus. 
+
+- Jaynal Abedin: He worked in the printing services (Books, Posters), find the printing services, prepare proceeding book for printing, and prepare posters for printing. After that, he also collected the proceeding books after printing, collect the posters after printing. 
+
+- Alokkumar Jha, Zia Ush Shamszaman and Erik Aumayr: They work together towards the presentation session chairing, to introduce the Keynote speakers. They also helped the presenters with the set-up, arrange for adapters. Later on they, collected the, presentations beforehand and introduced the presenters, time management. Organise question answering during the presentation, decide the awards, choose the nominator for the awards .
+
+- Siamak and Thu-Le Pham: They worked through, the poster session chairing. Ensure spaces for each poster, Have a list of poster session participants for each session, Try to go to individual posters (especially the ones where the audience is missing) and ask questions, Time management, Venue, book the venue, confirm all facilities needed (poster stands/chairs/projector,etc), prepare the poster stands/facilities in the venue.  
+
+##Organizing steps
+The typical steps involved in the organising the conference include drafting and disseminating calls for papers, assessing and selecting best papers, inviting speakers, identifying and inviting conference chairs, organising the conference venue, organising travel and subsistence for speakers, making up conference packs, arranging paper streams, administrating finances, manging the event on the day and handling publication of any conference proceedings and finally writing a report. 
+
+As a student, I got to have several experience from call for paper to finishing the conference program.
+
+###Step-1: Organising meeting
+Before sending the call for abstract submissions, we had several meetings with the Director of Insight@NUIG Prof. Dr. Dietrich Rebholz-Schumann who guided us for the whole event including how to organise, how to communicate and how to manage the whole thing smoothly. 
+
+Before that he contacted the unit leaders and Director from the other Insight centres across the Ireland to ensure the conference date and schedule. 
+
+###Step-2: Call for abstracts
+All students were invited to submit a 1-page extended abstract summarising their current research (by Friday 25 September 2015) via EasyChair website: https://easychair.org/conferences/?conf=insightsc2015.  
+
+###Step-3: After submissions
+All the submitted abstracts were reviewed by Insight researchers who provided feedback on the abstract. Some best abstracts received the opportunity for a short presentation at the conference and also played an important role for the review of all Insight centres in November towards international exposures:
+
+- Conference webpage: https://www.insight-centre.org/content/insight-student-conference-2015, which includes the submission guidelines and templates(poster and paper), program schedule, information about conference venue (physical location and Google maps) and program details.
+
+- Conference EasyChair webpage: https://easychair.org/conferences/?conf=insightsc2015.
+
+- ![Image of EasyChair](E:\Sync\Courses\Student Conference\Student Conference 2015\easychair.png)
+
+### Submission statistics
+Total 124 abstracts were submitted from the 4 Insight centeres across the Ireland. Among those, 119 papers got acceptance with minor corrections and 3 got acceptance with major corrections and 2 abstract got rejected because of not having signaficant research coontributions. In addition, 150 participants registrated for the event and made the event successfull. 
+
+
+## Program schedule
+- ![Image of Program](E:\Sync\Courses\Student Conference\Student Conference 2015\program.png)
+
+##My responsibilities
+I participated to the event as an organizer & author, where, I provided technical and logistics supports by: 
+
+- Creating, maintaining and updating conference website on https://www.insight-centre.org/
+- Uploding conference tempaltes (paper, poster) and selected best paper/poster after the conference
+
+- EasyChair setup(https://easychair.org/conferences/?conf=insightsc2015) 
+
+- Supports on EasyChair for managing submissions and reviewing process
+
+- Provided submissions statistics to the Director and organizing committee members
+
+- Prepared the conference Book of Abstract (downloadable at:   https://www.insight-centre.org/sites/default/files/basic_pages_file/book_of_abstracts.pdf)
+
+- Poster numbering and hanging on the poster stand
+
+- Poster demonstration to the audiences
+
+##Executive summary
+The second annual Insight Student Conference was held earlier today in NUI Galway. About 160 Insight members came from the different centres to connect with other researchers and learn about the interesting and varied work going on across the organisation. The event, held in the Bailey Allen Hall, in NUI Galway, showcased 121 posters. There were also a number of oral presentation sessions as outlined below:
+
+###Linked Data and Decision Analytics (Chair: Dr. Alessandra Mileo) 
+
+- Anh Le Tuan presented on the Mobile RDF Store, 
+- Andrejs Abele spoke about Linked Data Profiling, 
+- Qiao Cheng presented An Efficient Dispatch and Decision-making Model for Taxi-booking Service. 
+
+###Media Analytics and Recommendation Systems (Chair: Dr. Conor Hayes)
+
+- In this session, Igor Brigadir's presentation was entitled, what is Words Worth? Exploring Semantic Spaces of Political Discourse. 
+- After that came Extraction of Customer-To-Customer Suggestions from Reviews by Sapna Negi
+- Finally, Francisco J Pena presented Recommending from Experience. 
+
+###Personal Sensing (Chair: Dr. Ratnesh Sahay)
+- Claire McDermott gave a presentation about the Validity and Reliability of the FitBit Charge HRT to Monitor Heart Rate at Rest and During Exercise.
+- Hugh Byrne on the other hand, spoke about the use of an adaptive coaching system to improve patient outcomes during a free living step, 
+- Finally, Matthew Flood presented his early stage project about Non-Linear Analyses of Surface Electromyography in Parkinson's disease. 
+
+## Best paper and poster awards
+Insight CEO Mr. Oliver Daniels handed over the prizes to the winners for the best papers and posters. 
+
+###Best paper winners
+Students whose paper got selected for the presentation (and presented) received the best paper awards. Recipients for best paper in alphabetical order were:
+
+- Andrejs Abele: Linked Data Profiling
+
+- Igor Brigadir: What are Words Worth? Exploring Semantic Spaces of Political Discourse 
+
+- Hugh Byrne: Use of an adaptive coaching system to improve patient outcomes during a free living step  
+
+- Qiao Cheng: An Efficient Dispatch and Decision-making Model for Taxi-booking Service 
+
+- Matthew Flood: Non-Linear Analyses of Surface Electromyography in Parkinson's Disease 
+
+- Clare McDermott: Validity and Reliability of the FitBit Charge HRT to Monitor Heart Rate at Rest and During Exercise 
+
+- Sapna Negi: Extraction of Customer-To-Customer Suggestions from Reviews  
+
+- Francisco J. Pena: Recommending from Experience
+
+###Best poster winners
+Best posters were selected based on participants/audiences vote. Recipients for best poster in alphabetical order were:
+
+- Alokkumar Jha: Linked Data Approach for CNV Annotation in Cancer 
+
+- Tengqi Ye: Content-based Search Engine for Lifelogging with Collaborative Common Knowledge Base
+
+- Hazem Abdalaal: Knowledge Extraction from Unstructured Text using Embedded Controlled Language 
+
+- Francisco J. Pena: Recommending From Experience 
+
+- Gevorg Poghosyan: Topy the Story Tracker - Social Indexing for Real-time Story Tracking
+
+##Lesson learned 
+I participated to the event as an organizer & author, where, I learned:
+
+- How to increase effective communication, 
+
+- How to work as a team to organise a successfull even like conference 
+
+- How to manage conference website, 
+
+- How to create conference managment through the EasyChair 
+
+- How to do manage the submissions, 
+
+- How to do the review process and sending the acceptance/rejection notifications
+
+- How to manage a big event like conference within a short time frame. 
+
+On the day of the event, I have had several experience for example, for the first time I demonstrated my poster to the event, had talk to the researchers from the different countries. Also learned how to interact with the session chairs and the program committee. 
+
+The last but on the least, now I know how to organise an event like organising a conference or workshop that will help me for doing the same in the future a lot. 
+
+Now I would like add the comments of the Insight@NUIG Director, Prof. Dr. Dietrich Rebholz-Schumann: 
+
+"I wish to extend my deepest appreciation and admiration towards the wonderful hard work undertaken by so many students at Insight NUI Galway over the last few weeks that culminated in yesterday's excellent conference and on Thursday night at the Threesis final. 
+
+A big 'Thank You' (Míle Buíochas in Irish) to the student conference organisers, the conference speakers, the compilers of the conference posters, the Insight presenters who competed in the previous Threesis heats and to Mihael Arcan who represented our centre so well in Thursday's final of NUIG's Thesis-in-3 challenge. You all make me so proud to work here in Insight. 
+
+I think it was a cool conference on Friday, it went smoothly, and there was nothing - in terms of wishes/needs - left open. Excellent result, for a rather short time frame and a tough goal, i.e. to get a large number of PhD students (in the range of 80%) to submit their work". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##Comments/signature of the supervisor(s)
+
+**Supervisor:** Dr. Dietrich Rebholz-Schumann, MD, MSc, DSc
+
+**Affiliation:** Director(Insight Centre for Data Analytics) and Professor(College Engineering & Informatics, NUI Galway).
+
+###Comments:
+Please put your comments on student's learnings and outcome from the conference
+
+------------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------- 
+
+
+###Signature:
+
+--------------------------------------------------------------------
+
+**Co-supervisor:** Dr. Ratnesh Sahay, 
+
+**Affiliation:** Research Unit Leader(SeLS, Insight Centre for Data Analytics) and Adjunct Lecturer(College Engineering & Informatics, NUI Galway).
+
+###Comments:
+Please put your comments on student's learnings and outcome from the conference
+
+------------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------- 
+
+
+###Signature:
+
+--------------------------------------------------------------------
